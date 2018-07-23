@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unicode환경에서의 CString to LPWSTR"
-autor: lynn.baek
+author: lynn.baek
 date: 2018-07-09 14:37
 tags: [MFC, 형변환]
 comments: true

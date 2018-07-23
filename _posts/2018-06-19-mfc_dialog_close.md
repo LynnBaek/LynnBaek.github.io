@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[스크랩] MFC 프로그램 안전하게 종료하는 방법"
-autor: lynn.baek
+author: lynn.baek
 date: 2018-06-19 10:31
 tags: [MFC, Dialog]
 comments: true

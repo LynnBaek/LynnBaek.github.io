@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "실행 중인 프로세스 리스트(Process List)가져오기"
-autor: lynn.baek
+author: lynn.baek
 date: 2018-04-13 13:49
 tags: [C++, ProcessList]
 comments: true

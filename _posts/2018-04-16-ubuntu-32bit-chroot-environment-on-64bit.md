@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ubuntu 64bit에서 32bit 바이너리 실행하기"
-autor: lynn.baek
+author: lynn.baek
 date: 2018-04-16 15:01
 tags: [Ubuntu, Chroot]
 comments: true

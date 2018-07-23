@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "MFC 프로그램 중복 실행 방지"
-autor: lynn.baek
+author: lynn.baek
 date: 2018-06-20 11:49
 tags: [MFC, Dialog]
 comments: true
