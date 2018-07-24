@@ -1,7 +1,7 @@
-title: Lynn의 개발 블로그
+title: 길을 아는 것과 그 길을 걷는 것은 분명히 다르다
 email: lynn930219@gmail.com
 description: |
-  개발하면서 알았던 내용을 정리하는 블로그입니다.
+  Lynn의 개발 노트
 baseurl: ''
 url: 'https://lynnbaek.github.io/'
 timezone: Asia/Seoul 
@@ -49,7 +49,7 @@ exclude: [README.md, Gemfile, Gemfile.lock]
 keep_files: [assets, files]
 github: [metadata]
 # iolo's custom
-author: opensource@kakaocorp.com
+author: lynn930219@gmail.com
 image: '/assets/images/default_blog_cover.jpg'
 asset_url: /assets
 #asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
