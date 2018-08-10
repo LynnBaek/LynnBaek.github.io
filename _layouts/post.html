@@ -37,10 +37,6 @@ layout: default
     </div>
 </div>
 
-<div>
-  {% include disqus.html %}
-</div>
-
 <div id="post-links" class="container">
     {% assign prev = page.previous %}
     {% if prev %}
@@ -62,6 +58,10 @@ layout: default
             </div>
         </div>
     {% endif %}
+</div>
+
+<div>
+  {% include comments.html %}
 </div>
 
 <div id="lightbox">
