@@ -35,6 +35,10 @@ layout: default
             <span>Read more posts by this author</span>
         </a>
     </div>
+	
+	<div>
+		{% include comments.html %}
+	</div>
 </div>
 
 <div id="post-links" class="container">
@@ -58,10 +62,6 @@ layout: default
             </div>
         </div>
     {% endif %}
-</div>
-
-<div>
-  {% include comments.html %}
 </div>
 
 <div id="lightbox">
