@@ -3,7 +3,7 @@ layout: post
 title: "MFC Control 배경(background) color 투명하게 바꾸기"
 author: lynn.baek
 date: 2018-08-03 09:31
-tags: [MFC]
+tags: [MFC, Dialog]
 comments: true
 ---
 
