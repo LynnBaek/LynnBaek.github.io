@@ -3,7 +3,7 @@ layout: post
 title: "MFC 메인 다이얼로그 실행하자마자 숨기기"
 author: lynn.baek
 date: 2018-08-14 14:31
-tags: [MFC, Dialog]
+tags: [MFC]
 comments: true
 ---
 

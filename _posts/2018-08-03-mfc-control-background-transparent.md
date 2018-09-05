@@ -3,7 +3,7 @@ layout: post
 title: "MFC Control 배경(background) color 투명하게 바꾸기"
 author: lynn.baek
 date: 2018-08-03 09:31
-tags: [MFC, Dialog]
+tags: [MFC]
 comments: true
 ---
 
@@ -33,9 +33,7 @@ BEGIN_MESSAGE_MAP(CLoadingDlg, CDialog)
 END_MESSAGE_MAP()
 ```
 
-​	
-
-```c++
+```C++
 HBRUSH CLoadingDlg::OnCtlColor(CDC* pDC, CWnd* pWnd, UINT nCtlColor) 
 {
 	HBRUSH hbr = CDialog::OnCtlColor(pDC, pWnd, nCtlColor);

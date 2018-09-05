@@ -3,7 +3,7 @@ layout: post
 title: "MFC 다이얼로그 선언되지 않은 식별자입니다"
 author: lynn.baek
 date: 2018-08-14 14:31
-tags: [MFC, Dialog, Error]
+tags: [MFC, Error]
 comments: true
 ---
 

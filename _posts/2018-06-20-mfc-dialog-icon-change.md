@@ -3,7 +3,7 @@ layout: post
 title: "MFC 다이얼로그 아이콘 변경 및 추가"
 author: lynn.baek
 date: 2018-06-20 13:26
-tags: [MFC, Dialog]
+tags: [MFC]
 comments: true
 ---
 

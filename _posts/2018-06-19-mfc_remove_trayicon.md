@@ -3,7 +3,7 @@ layout: post
 title: "[스크랩] MFC 트레이 아이콘 잔상 없애기"
 author: lynn.baek
 date: 2018-06-19 10:31
-tags: [MFC, TrayIcon, 트레이아이콘]
+tags: [MFC]
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Ubuntu에서 CURL 라이브러리 설치하기"
 author: lynn.baek
 date: 2018-04-16 14:06
-tags: [Ubuntu, CURL]
+tags: [Ubuntu]
 comments: true
 ---
 

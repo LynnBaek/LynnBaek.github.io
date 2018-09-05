@@ -3,7 +3,7 @@ layout: post
 title: "void*에 구조체 넘기기"
 author: lynn.baek
 date: 2018-05-11 09:42
-tags: [C++, void*, structure]
+tags: [C,C++]
 comments: true
 ---
 

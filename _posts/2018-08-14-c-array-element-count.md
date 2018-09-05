@@ -3,7 +3,7 @@ layout: post
 title: "C/C++ 배열의 요소 개수 구하기"
 author: lynn.baek
 date: 2018-08-14 14:59
-tags: [C/C++]
+tags: [C,C++]
 comments: true
 ---
 
