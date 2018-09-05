@@ -1,9 +1,0 @@
-diff a/_includes/head.html b/_includes/head.html	(rejected hunks)
-@@ -61,6 +61,7 @@
- <link href="{{ site.asset_url }}/fonts/Kakao.css" rel="stylesheet" type="text/css"/> 
- <link href="{{ site.asset_url }}/css/screen.css" rel="stylesheet" type="text/css"/>
- <script>
-+    if (window.location.host.indexOf('lynnbaek.github.io') > -1 && window.location.protocol == "https:"){
-         window.location = window.location.toString().replace(/^https:/, "http:");
-     }
- </script>
