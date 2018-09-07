@@ -27,7 +27,7 @@ pre,
 code,
 tt,
 kbd {
-    font-family: monospace;
+    font-family: "Consolas", monospace;
     font-weight: 300;
 }
 
