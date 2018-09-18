@@ -33,7 +33,7 @@ BEGIN_MESSAGE_MAP(CLoadingDlg, CDialog)
 END_MESSAGE_MAP()
 ```
 
-```C++
+```c++
 HBRUSH CLoadingDlg::OnCtlColor(CDC* pDC, CWnd* pWnd, UINT nCtlColor) 
 {
 	HBRUSH hbr = CDialog::OnCtlColor(pDC, pWnd, nCtlColor);
