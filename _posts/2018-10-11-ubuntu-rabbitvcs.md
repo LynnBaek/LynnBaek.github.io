@@ -25,13 +25,13 @@ comments: true
 
 
 
-1. 우선 update를 한 번 진행해준다.
+* 우선 update를 한 번 진행해준다.
 
 ```shell
 sudo apt-get update
 ```
 
-2. RabbitVCS를 설치한다.
+* RabbitVCS를 설치한다.
 
 ```shell
 sudo apt-get install rabbitvcs-nautilus
