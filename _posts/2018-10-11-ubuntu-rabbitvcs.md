@@ -17,7 +17,7 @@ comments: true
 
 아직 설치하고 checkout만 해본 상태인데, 확실히 rapidSVN보다는 편한 것 같다. 
 
-![rabbitvcs-nautilus-integration](../files/rabbitvcs-nautilus-integration.png)
+![rabbitvcs-nautilus-integration](/files/rabbitvcs-nautilus-integration.png)
 
 ## Ubuntu에서 RabbitVCS 설치
 
