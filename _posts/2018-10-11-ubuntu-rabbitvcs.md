@@ -9,15 +9,15 @@ comments: true
 
 기존에 Ubuntu 환경에서 svn으로 rapidSVN을 사용하고 있었다.
 
-그런데 폴더나 파일에 직접 우클릭하여(toltoiseSVN 처럼) update나 commit등을 할 수 없고
+그런데 폴더나 파일에 직접 우클릭하여(tortoiseSVN 처럼) update나 commit등을 할 수 없고
 
 자꾸 svn이 꼬이는(?) 증상이 발생하여 svn을 다른 툴로 변경해보기로 하였다. 
 
-그래서 찾아보던 중, RabbitVCS라는 svn이 toltoiseSVN을 clone한 svn이라고하여 사용해보았다. 
+그래서 찾아보던 중, RabbitVCS라는 svn이 tortoiseSVN을 clone한 svn이라고하여 사용해보았다. 
 
 아직 설치하고 checkout만 해본 상태인데, 확실히 rapidSVN보다는 편한 것 같다. 
 
-
+![rabbitvcs-nautilus-integration](./files/rabbitvcs-nautilus-integration.png)
 
 ## Ubuntu에서 RabbitVCS 설치
 
