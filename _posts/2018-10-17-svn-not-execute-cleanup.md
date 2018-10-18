@@ -29,8 +29,6 @@ Ubuntu에서 svn 사용 중에 간혹 cleanup이 안될 때가 있습니다.
 
 5. `데이터베이스 열기` 버튼 클릭하여 wc.db 파일 열기
 
-   ![데이터베이스 열기 버튼 클릭](/files/Select Database.PNG)
-
 6. `SQL 실행(Execute SQL)` 탭에서 `delete from work_queue` 이라는 SQL문 작성.
 
 7. 위에 `▶` 버튼 클릭.
@@ -42,3 +40,4 @@ Ubuntu에서 svn 사용 중에 간혹 cleanup이 안될 때가 있습니다.
 9. SVN Cleanup을 다시 시도 해본다. 
 
 10. cleanup이 정상적으로 수행 됨.
+
