@@ -15,6 +15,8 @@ Ubuntu에서 svn 사용 중에 간혹 cleanup이 안될 때가 있습니다.
 
 ## Ubuntu Cleanup 에러 해결 방법
 
+
+
 1. 문제가 생긴 svn 폴더(checkout한 root 경로)로 이동
 
 2. 숨김폴더로 되어있는 ./svn 폴더로 이동
@@ -24,7 +26,9 @@ Ubuntu에서 svn 사용 중에 간혹 cleanup이 안될 때가 있습니다.
 4. sqlite3 browser 설치(GUI 형태, CUI에서 나는 안되는 증상이 있었다.)
 
    ```shell
-   sudo apt-get install sqlitebrowse
+   sudo add-apt-repository ppa:linuxgndu/sqlitebrowser-testing
+   
+   sudo apt-get update && sudo apt-get install sqlitebrowser
    ```
 
 5. `데이터베이스 열기` 버튼 클릭하여 wc.db 파일 열기
