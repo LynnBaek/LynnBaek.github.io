@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Ubuntu] SVN cleanup 안될 때"
+title: "Ubuntu SVN cleanup 안될 때"
 author: lynn.baek
 date: 2018-10-17 17:59
 tags: [Ubuntu, SVN]
@@ -42,4 +42,3 @@ Ubuntu에서 svn 사용 중에 간혹 cleanup이 안될 때가 있습니다.
 9. SVN Cleanup을 다시 시도 해본다. 
 
 10. cleanup이 정상적으로 수행 됨.
-
