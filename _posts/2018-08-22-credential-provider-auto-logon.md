@@ -25,11 +25,12 @@ AutoLogon 부분 관련해서는 [Windows Dev Center에 올라와 있는 글](ht
 
 
 
-## CSampleCredential.cpp
+## CSampleCredential.cpp 수정
+---
 
 1. pbAutoLogon 플래그를 TRUE로 변경해준다.
 
-```C++
+```c++
 HRESULT CSampleCredential::SetSelected(_Out_ BOOL *pbAutoLogon)
 {
     *pbAutoLogon = TRUE; //FALSE를 TRUE로 바꿔준다.
@@ -39,7 +40,7 @@ HRESULT CSampleCredential::SetSelected(_Out_ BOOL *pbAutoLogon)
 
 2. GetSerialization은 submit 버튼이 눌리고 호출되는 함수이다. 여기서 submit 버튼이 눌리고 나서의 처리를 해주면 된다. user계정에 패스워드가 존재한다면, 패스워드를 ProtectIfNecessaryAndCopyPassword 함수에서 첫 번째 파라미터로 해당 user계정의 올바른 패스워드 들어가야만 자동 로그인에 성공한다. 
 
-```C++
+```c++
 HRESULT CSampleCredential::GetSerialization(_Out_ CREDENTIAL_PROVIDER_GET_SERIALIZATION_RESPONSE *pcpgsr,
                                             _Out_ CREDENTIAL_PROVIDER_CREDENTIAL_SERIALIZATION *pcpcs,
                                             _Outptr_result_maybenull_ PWSTR *ppwszOptionalStatusText,
@@ -152,11 +153,12 @@ HRESULT CSampleCredential::GetSerialization(_Out_ CREDENTIAL_PROVIDER_GET_SERIAL
 
 예를 들어 나의 user계정의 비밀번호가 `qwer1234`라면,  ProtectIfNecessaryAndCopyPassword 함수의 첫 번째 파라미터를 다음과 같이 변경해봅니다.
 
-```C++
+```c++
 hr = ProtectIfNecessaryAndCopyPassword("qwer1234", _cpus, &pwzProtectedPassword);
 ```
 
-
+## 결과 화면
+---
 
 그럼 다음과 같이 `패스워드 입력 필드`가 사라지고 `로그인`버튼만 있는 화면이 나타나게 됩니다.
 
