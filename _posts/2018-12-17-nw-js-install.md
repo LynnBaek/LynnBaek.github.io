@@ -1,7 +1,11 @@
-# NW.js(node-webkit) 설치 방법
-
-Last Edited: Dec 17, 2018 9:44 AM
-Tags: cross-platform,node-webkit,nw.js
+---
+layout: post
+title: "NW.js(node-webkit) 설치 방법"
+author: lynn.baek
+date: 2018-12-17 10:56
+tags: [cross-platform, node-webkit, nw.js]
+comments: true
+---
 
 # 설치하기
 
