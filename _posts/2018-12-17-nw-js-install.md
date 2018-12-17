@@ -8,7 +8,6 @@ comments: true
 ---
 
 # 설치하기
-
 ---
 
 1. [https://github.com/rogerwang/node-webkit#downloads](https://github.com/rogerwang/node-webkit#downloads)
@@ -18,7 +17,6 @@ comments: true
     ![](/files/Untitled-f2278f80-5419-41fe-a287-23205c5074ea.png)
 
 # Hello World 띄워보기
-
 ---
 
 1. 임의의 폴더를 하나 생성한다. ex) app
@@ -53,7 +51,6 @@ comments: true
     ![](/files/Untitled-f7d51f00-c1b6-43b3-be99-7cd23bc2fb56.png)
 
 # 독립된 설치 패키지 만들기
-
 ---
 
 1. index.html과 package.json 파일이 들어있는 폴더(app)를 압축시킨다.
