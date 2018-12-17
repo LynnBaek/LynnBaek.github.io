@@ -163,10 +163,10 @@ hr = ProtectIfNecessaryAndCopyPassword("qwer1234", _cpus, &pwzProtectedPassword)
 그럼 다음과 같이 `패스워드 입력 필드`가 사라지고 `로그인`버튼만 있는 화면이 나타나게 됩니다.
 
 ## 변경 전
-![변경 전 window 로그인 화면](/files/window_login1.png)
+![변경 전 window 로그인 화면](/files/window_login1.PNG)
 
 ## 변경 후
-![변경 후 window 로그인 화면](/files/window_login2.png)
+![변경 후 window 로그인 화면](/files/window_login2.PNG)
 
 
 
