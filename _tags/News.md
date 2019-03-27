@@ -1,4 +1,4 @@
 ---
-name: News
-title: 'News'
+name: IT News
+title: 'IT News'
 ---
