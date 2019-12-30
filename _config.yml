@@ -4,7 +4,7 @@ description: |
   Lynn의 개발 로그
 baseurl: ''
 url: 'https://lynnbaek.github.io/'
-timezone: Asia/Seoul 
+timezone: Asia/Seoul
 
 repository: LynnBaek/LynnBaek.github.io
 
@@ -65,4 +65,4 @@ google_plus:
   username: kakaodev
 github_url:
   username: kakao
- disqus_shortname: 'lynnbaek'
+discus-identifier: lynnbaek
